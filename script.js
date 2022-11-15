@@ -40,7 +40,7 @@ const students = [
 },
 ]
 
-let studentsAprovveds = []
+let studentsApproveds = []
 
 for (let student of students) {
   let average = (student.note1 + student.note2) / 2
